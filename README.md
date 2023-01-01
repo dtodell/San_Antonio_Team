@@ -1,9 +1,9 @@
-# San_Antonio_Team
+### San_Antonio_Team
 
-### Final Project Finalists ###
+### Final Project ###
 
-# Car market data with trends and interactive data viz
-
-# Chart showing percentage of S&P500 invested in Fossil Fuels vs Renewables
-
-# etc
+# Accident data from live city updates
+# Learn where hotspots are for traffic incidents
+# Find trends
+# Try predictive model using machine learning and determine accuracy as new data comes in
+# Visualize results
