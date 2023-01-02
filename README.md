@@ -1,9 +1,11 @@
-### San_Antonio_Team
+# San_Antonio_Team
 
-### Final Project ###
+# Final Project
 
-# Accident data from live city updates
-# Learn where hotspots are for traffic incidents
-# Find trends
-# Try predictive model using machine learning and determine accuracy as new data comes in
-# Visualize results
+### Communication via Slack and updates tracked here on GitHub
+
+### Accident data from live city updates
+### Learn where hotspots are for traffic incidents
+### Find trends
+### Try predictive model using machine learning and determine accuracy as new data comes in
+### Visualize results
